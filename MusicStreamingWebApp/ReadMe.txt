@@ -1,1 +1,0 @@
-Welcome to our assignmentOluwaseun Soetan (Student ID: 101339637)Natasha Rupani (Student ID: 101339597)Instructions to run:1. Unzip Assignment_v32. Open MusicStreaming.html file using chrome browser3. The project uses bootstrap js please ensure your system is connected to internet.Thank you.
